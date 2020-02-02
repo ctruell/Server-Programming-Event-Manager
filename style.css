@@ -1,0 +1,52 @@
+body {
+    font-family: 'Futura', sans-serif;
+    color: white;
+    background-color: lightskyblue;
+    margin: 3%;
+}
+
+a {
+    text-decoration: none;
+    color: purple;
+}
+
+#right {
+    float: right;
+}
+
+h1 {
+    text-align: center;
+}
+
+.box {
+    width: 30%;
+    margin: auto;
+    padding: 5% 0;
+    background-color: white;
+    color: lightskyblue;
+    border-radius: 3%;
+}
+
+.i {
+    width: 40%;
+    padding: 2% 0;
+    margin: 1% 29%;
+    border: solid gray 1px;
+    border-radius: 5%;
+}
+
+th, td {
+    border: 2px solid white;
+}
+
+table, tr {
+    border: none;
+}
+
+#rb {
+    float: right;
+}
+
+#center {
+    padding-left: 50%;
+}
